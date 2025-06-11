@@ -1,7 +1,7 @@
 # ShadowFox
 
 📊 Data Science Internship Projects — ShadowFox (June–July 2025)
-This repository contains the projects completed during my Data Science internship at ShadowFox between June and July 2025. These projects focused on applying data analysis, visualization, and machine learning techniques to real-world datasets and problems. The tools used include Python, Jupyter Notebook, Pandas, Plotly, Bokeh, and others.
+This repository contains the projects completed during my Data Science internship at ShadowFox between June and July 2025. These projects focused on applying data analysis, visualization, and machine learning techniques to real-world datasets and problems. The tools used include Python, Google Colab, Pandas, Plotly, Bokeh, and others.
 
 🧠 Projects Overview
 
