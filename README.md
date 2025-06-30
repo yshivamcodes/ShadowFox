@@ -4,8 +4,23 @@
 This repository contains the projects completed during my Data Science internship at ShadowFox between June and July 2025. These projects focused on applying data analysis, visualization, and machine learning techniques to real-world datasets and problems. The tools used include Python, Google Colab, Pandas, Plotly, Bokeh, and others.
 
 🧠 Projects Overview
+## Beginner Task
 
-1. Analysis of Air Quality Index (AQI) in Delhi
+1. Visualization Library Documentation
+Objective: Compare two major Python visualization libraries — Plotly and Bokeh.
+
+Key Features:
+Library overviews, use cases, and suitability for various scenarios.
+Detailed documentation of 5 core graph types (Line, Scatter, Bar, Histogram, Pie).
+Code examples and comparative analysis across interactivity, performance, and ease of use.
+
+Output Format: Technical documentation (Word)
+
+File: Visualization Library Documentation.docx
+
+## Intermediate Task
+
+2. Analysis of Air Quality Index (AQI) in Delhi
 Objective: Perform an in-depth analysis of AQI trends in Delhi using real-time and historical data.
 
 Key Tasks:
@@ -19,7 +34,9 @@ Tech Stack: Python, Pandas, Matplotlib, Bokeh
 
 File: analysis of the Air Quality Index (AQI) in Delhi.ipynb
 
-2. Students’ Social Media Addiction Analysis
+## Advanced Task
+
+3. Students’ Social Media Addiction Analysis
 Objective: Explore the patterns and impact of social media usage among students.
 
 Key Tasks:
@@ -31,17 +48,7 @@ Tech Stack: Python, Pandas, Seaborn, Matplotlib
 
 File: Students' Social Media Addiction.ipynb
 
-3. Visualization Library Documentation
-Objective: Compare two major Python visualization libraries — Plotly and Bokeh.
 
-Key Features:
-Library overviews, use cases, and suitability for various scenarios.
-Detailed documentation of 5 core graph types (Line, Scatter, Bar, Histogram, Pie).
-Code examples and comparative analysis across interactivity, performance, and ease of use.
-
-Output Format: Technical documentation (Word)
-
-File: Visualization Library Documentation.docx
 
 🛠️ Tools & Technologies Used
 Languages: Python
